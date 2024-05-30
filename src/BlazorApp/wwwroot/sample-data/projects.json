@@ -1,22 +1,22 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "Diabetes Prevention System",
+    "description": "This is the idea I submitted to 'Imagine Cup Junior' with my friend",
+    "url": "https://www.youtube.com/watch?v=HUtUEOC5JH4&t=62s"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+    "title": "Emergency Rescue Robot",
+    "description": "This is the emergency rescue robot I made with Lego Spike",
     "url": "https://github.com/microsoft/web-dev-for-beginners"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "A Simple Scratch Game",
+    "description": "This is a simple scratch rpg game I made with my friend.(The game only supports Korean)",
+    "url": "https://scratch.mit.edu/projects/948671455"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "Mars Exploration Robot",
+    "description": "This is a simple mars expedition robot I made with Lego Spike. I made it a long time ago so it's very simple",
+    "url": "https://cafe.naver.com/haedaledu/671"
   }
 ]
